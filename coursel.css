@@ -1,0 +1,29 @@
+.my-nav {
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    background-color: #2184c64d;
+  }
+  .my-nav .container a:hover{
+    background-color: #12083b;
+    color: aliceblue;
+    border-radius: 30px;
+  }
+  .my-nav .container .navbar-collapse .navbar-nav a:hover{
+       color:aliceblue;
+  }
+  .my-nav .container .navbar-collapse .navbar-nav a{
+    color: black;
+  }
+  .carousel-item {
+    height: 100vh;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+  }
+  body {
+    background-color: rgb(13, 13, 81);
+  }
+  
